@@ -1,4 +1,4 @@
-# Shopping cart project assignment solution
+# Shopping cart project 
 
 You can find database mock-up under `src/db` folder.
 
